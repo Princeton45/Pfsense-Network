@@ -9,4 +9,4 @@ Through this project I have gotten familar with Linux, learned and implemented f
 
 My goal for this writeup is to document my journey and hopefully teach others how to setup their own Pfsense network.
 
-WIKI
+[Wiki -->>](https://github.com/Princeton45/Pfsense-Network/wiki/1.-Getting-Started) 
